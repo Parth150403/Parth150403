@@ -6,10 +6,22 @@ I’m currently pursuing a **B.Tech in Computer Science and Engineering** at Par
 I'm constantly learning and improving my skills, and I’ve worked on various personal projects, including clones of popular websites like **Amazon** 🛒 and **Netflix** 🎥. I love collaborating on projects and exploring new technologies, with a focus on becoming proficient in **React.js** in the near future. 💻
 
 ### 🔧 Technologies & Tools
-- **Front-End Development**: HTML, CSS, JavaScript, Bootstrap
-- **Databases**: MySQL
-- **Currently Exploring**: React.js
-- **Other Skills**: SQL, Data Structures and Algorithms (DSA), Problem-Solving
+
+- **Front-End Development**:  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Currently Exploring**:  
+  ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+  
+  
+  
 
 ### 💻 Projects
 Here are a few highlights from my project portfolio:
